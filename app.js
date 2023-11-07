@@ -1,5 +1,5 @@
 
-let max = 100;
+let max = 50;
 let numeroMisterioso = gerarNumero(max);
 let tentativas=0;
 mensagemInicial();
